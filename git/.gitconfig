@@ -1,0 +1,7 @@
+[user]
+	email = xyz@abc.com
+	name = XYZ
+[core]
+	editor = vim
+[push]
+	default = simple
